@@ -6,6 +6,6 @@
 *.ear
 
 # Folder #
-/target
 !m2e-wtp/
+/target
 /catalina.base_IS_UNDEFINED
