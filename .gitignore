@@ -4,3 +4,8 @@
 *.jar
 *.war
 *.ear
+
+# Folder #
+/target
+!m2e-wtp/
+/catalina.base_IS_UNDEFINED
